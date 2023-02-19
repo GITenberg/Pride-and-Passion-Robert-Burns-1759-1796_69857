@@ -1,5 +1,8 @@
 _repo: Pride-and-Passion-Robert-Burns-1759-1796_69857
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69857-h/images/cover.jpg
 creator:
   author:
     agent_name: Ferguson, J. De Lancey (John De Lancey)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55458
     wikipedia: https://en.wikipedia.org/wiki/John_DeLancey_Ferguson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69857#Pride-and-Passion-Robert-Burns-1759-1796
 gutenberg_issued: '2023-01-22'
 identifiers:
   gutenberg: '69857'
